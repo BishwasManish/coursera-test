@@ -1,2 +1,3 @@
 # coursera-test
-coursera-test repository
+Coursera-test repository
+I am Manish bishwas
